@@ -28,4 +28,6 @@ C<br>
 # 实用教程
 1. python3以上版本吧
 2. `pip install requests` 然后就没了
+3. 你需要去百度AI平台创建应用，获取ak和sk，不会就去问GOOGLE OR BAIDU
+4. 因支持批量，得创建个文件夹，把图片丢入
 
